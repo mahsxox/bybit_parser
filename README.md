@@ -23,7 +23,7 @@
 ## Установка
 
 ```bash
-git clone github.com/mahsxox/bybit_parser
+git clone https://github.com/mahsxox/bybit_parser.git
 cd bybit_parser
 python -m venv .venv
 .venv\Scripts\activate
