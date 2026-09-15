@@ -1,0 +1,4 @@
+aiohttp>=3.9
+asyncpg>=0.29
+pandas>=2.0
+python-dotenv>=1.0
